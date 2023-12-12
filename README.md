@@ -2,7 +2,7 @@
 
 [Mail](mailto:contact@lehroj.xyz) / [GitHub](https://github.com/lehroj) / [LinkedIn](https://linkedin.com/in/lehroj) / [Twitter](https://twitter.com/_lehroj)
 
-_Développeur, 32 y/o, résidant à Montpellier, en France._
+_Développeur, 33 y/o, résidant à Montpellier, en France._
 
 _🇬🇧 English version [here](https://lehroj.github.io/resume/en-version)._
 <br>
@@ -46,17 +46,17 @@ _⚙️ Mon environnement de travail [ici](https://github.com/lehroj/setup)._
 
 ## 💎 Compétences
 
-Langages :
+Langages principaux :
 
-`HTML`, `CSS`, `PHP`, `JavaScript`, `MJML`, `Markdown`, `YAML`
+`PHP`, `JavaScript`, `CSS`, `HTML`
 
-Librairies :
+Frameworks :
 
-`Symfony`, `Twig`, `React`, `Next.js`, `Vue.js`, `Nuxt.js`, `Node.js`, `Express`, `Hapi`, `Koa`
+`Symfony`, `Laravel`, `React`, `Vue.js`, `Node.js`
 
 CMS :
 
-`WordPress`, `WooCommerce`, `Kirby`, `PrestaShop`
+`Headless`, `Kirby`, `WordPress`, `WooCommerce`, `PrestaShop`
 
 Base de données :
 
