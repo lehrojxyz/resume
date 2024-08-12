@@ -2,7 +2,7 @@
 
 [Mail](mailto:contact@lehroj.xyz) / [GitHub](https://github.com/lehroj) / [LinkedIn](https://linkedin.com/in/lehroj) / [Twitter](https://twitter.com/_lehroj)
 
-_Developer, 33 y/o, living in Montpellier, France._
+_Developer, 34 y/o, living in Montpellier, France._
 
 _🇫🇷 French version [here](https://lehroj.github.io/resume)._
 <br>
@@ -18,7 +18,7 @@ _⚙️ Setup for my working environment [here](https://github.com/lehroj/setup)
 
 **Developer full stack**
 <br>
-@ [Freelance](https://jorhelbdr.dev) _(10/2020 - ...)_
+@ [Freelance](https://lehroj.xyz) _(10/2020 - ...)_
 
 **Front-End Developer**
 <br>
@@ -30,7 +30,7 @@ _⚙️ Setup for my working environment [here](https://github.com/lehroj/setup)
 
 **Front-End Developer**
 <br>
-@ Les Domaines Pierre Chavin _(10/2016 - 10/2017)_
+@ [Les Domaines Pierre Chavin](https://pierre-chavin.com) _(10/2016 - 10/2017)_
 
 **Front-End Developer**
 <br>
