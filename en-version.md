@@ -7,8 +7,6 @@ _Developer, 34 y/o, living in Montpellier, France._
 _🇫🇷 French version [here](https://lehroj.github.io/resume)._
 <br>
 _🔨 Application, services and tools I use [here](https://lehroj.github.io/uses)._
-<br>
-_⚙️ Setup for my working environment [here](https://github.com/lehroj/setup)._
 
 ## 👨‍💻 Experience
 
@@ -26,7 +24,7 @@ _⚙️ Setup for my working environment [here](https://github.com/lehroj/setup)
 
 **Front-End Developer**
 <br>
-@ Freelance _(11/2017 - 01/2018)_
+@ [Freelance](https://lehroj.xyz) _(11/2017 - 01/2018)_
 
 **Front-End Developer**
 <br>
@@ -62,9 +60,9 @@ Databases :
 
 `MySQL`, `MariaDB`, `PostgreSQL`, `MongoDB`
 
-Workflow :
+Tools :
 
-`Webpack`, `Vite`, `Parcel`, `Gulp`, `Docker`, `Git`, `Bash/ZSH`, `macOS`
+`Webpack`, `Vite`, `Parcel`, `Gulp`, `Docker`, `Git`, `macOS`
 
 ## 💬 Languages
 
