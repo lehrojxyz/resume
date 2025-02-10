@@ -1,6 +1,6 @@
 # Jorhel Bourdier
 
-[Mail](mailto:contact@lehroj.xyz) / [GitHub](https://github.com/lehroj) / [LinkedIn](https://linkedin.com/in/lehroj) / [Twitter](https://twitter.com/_lehroj)
+[Mail](mailto:contact@lehroj.xyz) / [GitHub](https://github.com/lehroj) / [LinkedIn](https://linkedin.com/in/jorhelbourdier) / [Twitter](https://twitter.com/_lehroj)
 
 _Développeur, 34 y/o, résidant à Montpellier, en France._
 
