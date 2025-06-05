@@ -1,12 +1,12 @@
 # Jorhel Bourdier
 
-[Mail](mailto:contact@lehroj.xyz) / [GitHub](https://github.com/lehroj) / [LinkedIn](https://linkedin.com/in/jorhelbourdier) / [Twitter](https://twitter.com/_lehroj)
+[Mail](mailto:contact@lehroj.xyz) / [GitHub](https://github.com/lehrojxyz) / [LinkedIn](https://linkedin.com/in/lehrojxyz) / [Twitter](https://twitter.com/lehrojxyz)
 
-_Developer, 34 y/o, living in Montpellier, France._
+_Developer, 35 y/o, living in Montpellier, France._
 
-_🇫🇷 French version [here](https://lehroj.github.io/resume)._
+_🇫🇷 French version [here](https://lehrojxyz.github.io/resume)._
 <br>
-_🔨 Application, services and tools I use [here](https://lehroj.github.io/uses)._
+_🔨 Application, services and tools I use [here](https://lehrojxyz.github.io/uses)._
 
 ## 👨‍💻 Experience
 

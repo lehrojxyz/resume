@@ -2,4 +2,4 @@
 
 > Just a digital version of my resume.
 
-See [here](https://lehroj.github.io/resume).
+See [here](https://lehrojxyz.github.io/resume).
